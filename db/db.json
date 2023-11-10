@@ -1,12 +1,17 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text",
-        "id": "id123"
+        "title": "Errands",
+        "text": "Take out trash\nDo Dishes",
+        "id": "209b9652-91e3-465c-9149-6e40a66479cf"
     },
     {
-        "title": "sdfg",
-        "text": "sdfgsdfg",
-        "id": "ea9f4cc8-eabc-4595-ae51-b183a6d8b84b"
+        "title": "Saturday",
+        "text": "Jazz class\nWalk the dogs\nFix the car",
+        "id": "73195756-f6fd-4fa5-a77e-472f5eb5a3ab"
+    },
+    {
+        "title": "Golf Tournament",
+        "text": "Cherry Creek\nSaturdays 8-12",
+        "id": "4eb95bbb-80a2-4e44-bcdc-79f1408830c6"
     }
 ]

@@ -31,7 +31,4 @@ router.post('/notes', (req, res) => {
     )
 });
 
-// Need to add 'DELETE' & 'writeNote'!
-
-
 module.exports =  router;
